@@ -1,0 +1,5 @@
+{
+  "Comment": "A step function for creating Read Only (RO) wallets.",
+  "StartAt": "My First Step"
+  
+}
